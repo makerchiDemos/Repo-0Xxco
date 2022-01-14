@@ -1,0 +1,1 @@
+Observe the statistics reported by SandPiper at the end of the SandPiper log output.
